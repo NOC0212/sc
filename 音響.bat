@@ -1,0 +1,1 @@
+C:\nircmd\nircmd.exe setdefaultsounddevice "auto"
