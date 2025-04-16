@@ -1,0 +1,6 @@
+下載main teg 
+depoct {
+ rand:https://www.nirsoft.net/x64_download_package.html
+}
+dgn(test hub d(run))
+D:\Users\你的帳號\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
